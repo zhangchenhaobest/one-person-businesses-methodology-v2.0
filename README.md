@@ -1,3 +1,29 @@
+# one-person-businesses-methodology-v2.0
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The second edition of a one-person business methodology, also useful for non-technical people running side projects such as media, e-commerce and digital products.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+《一人企业方法论》第二版，也适合做自媒体、电商、数字商品等副业的非技术人群。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # 《一人企业方法论》
 
 ## Agent 技能集
